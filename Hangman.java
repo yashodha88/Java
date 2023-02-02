@@ -64,8 +64,7 @@ public class Hangman {
         for(int i=0;i<word.length;i++){
             word[i] = '_';
         }
-        System.out.print("Word: ");
-        printChars(word);
+        
 
 
     }
